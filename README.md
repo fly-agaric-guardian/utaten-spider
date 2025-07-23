@@ -18,9 +18,11 @@ Open the terminal and enter the project directory.
 Execute the following command and enter the URL of the target website:
 ```
 python spider.py {Website URL}
+```
 
 Example:
 ```
 python spider.py https://utaten.com/lyric/ja00004885/
+```
 
 The lyrics will be saved to the lyrics.txt file in the same directory.
